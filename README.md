@@ -18,6 +18,10 @@
 ## Projects
 * [NYC Yellow Taxi Fare Amount Prediction](https://github.com/panda-july/NYC-Taxi-Fare-Amount-Prediction)<BR/>
 *This is my portfolio project from Google Advanced Data Analytics Certificate by Coursera. In this fictional scenario, I analyzed the yellow taxi trip data, identified important features and built regression models to estimate the taxi fares in advance of their ride.*
+
+* [Employee Leave Prediction](https://github.com/panda-july/SalifortMotors-Employee-Leave-Prediction)<BR/>
+*This is my portfolio project from Google Advanced Data Analytics Certificate by Coursera. In this fictional scenario, I analyzed the employee data, identified important features and built classification models to predict an employee will leave the company or not, proposed solutions to increase employee retention*
+
 <!--
 **panda-july/panda-july** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
