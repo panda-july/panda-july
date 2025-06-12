@@ -16,8 +16,23 @@
     * Coss-functional collaboration
 
 ## Projects
+
+* [Airline Customer Satisfaction Prediction](https://github.com/panda-july/Airline-Customer-Satisfaction-Prediction)<BR/>
+*This is my portfolio project from Google Advanced Data Analytics Certificate by Coursera. In this scenario, I analyzed an airline survey data, conducted built classcification models to predict whether a future customer would be satisfied.*
+    * 🌱 Acquired domain knowledge through airline homepages, U.S. Department of Transportation, and Gemini.
+    * 🌱 Conducted Exploratory Data Analysis (EDA) and Hypothesis Test, performed data cleaning, feature engineering, Encoding and Scaling.
+    * 🌱 Developed Logistic Regression and Machine Learning models(Decision Tree, Naive Bayes, Random Forest, XGBoost) for the prediction of customer satisfaction based on publicly accessible Open Data.
+    * 🌱 Evaluated model performance using metrics including confusion matrix, Accuracy, Precision, Recall, F1-Score.
+    * 🌱 Identified potential issues and further invetigation points.
+    * 🌱 Discussed stakeholders, improvement difficulties and potential affected customer groups.
+
 * [NYC Yellow Taxi Fare Amount Prediction](https://github.com/panda-july/NYC-Taxi-Fare-Amount-Prediction)<BR/>
 *This is my portfolio project from Google Advanced Data Analytics Certificate by Coursera. In this fictional scenario, I analyzed the yellow taxi trip data, identified important features and built regression models to estimate the taxi fares in advance of their ride.*
+    * 🌱 Acquired domain knowledge through the review of the homepage, industry releases, and relevant regulatory guidelines.
+    * 🌱 Conducted Exploratory Data Analysis (EDA) , performed data cleaning and preprocessing, implemented multiple regression algorithms (Linear Regression, Random Forest, XGBoost), and optimized hyperparameters.
+    * 🌱 Developed linear and machine learning models for the prediction of fare amount based on publicly accessible Open Data.
+    * 🌱 Evaluated model performance using metrics including R-squared, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
+
 
 * [NYC Taxi Generous Tipper Prediction](https://github.com/panda-july/NYC-Taxi-Generous-Tipper-Prediction/blob/main/README.md)<BR/>
 *This is my portfolio project from Google Advanced Data Analytics Certificate by Coursera. In this fictional scenario, I analyzed the yellow taxi trip data, built classcification models to predict whether or not a passenger will be a generous tipper (>= 20%).*
